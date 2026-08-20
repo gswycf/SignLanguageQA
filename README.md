@@ -3,6 +3,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2607.27826-b31b1b.svg)](https://arxiv.org/abs/2607.27826)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SignQA--2026-yellow)](https://huggingface.co/datasets/hulala/SignQA-2026)
 
+[[Paper PDF]](paper/2607.27826v1.pdf)
+
 This repository accompanies the paper **“Sign Language Question Answering: A
 New Task, Benchmark, and Baseline for Sign Language Understanding.”**
 
@@ -63,4 +65,3 @@ If you find this work useful, please cite:
   url           = {https://arxiv.org/abs/2607.27826}
 }
 ```
-
